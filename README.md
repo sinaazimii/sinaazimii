@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sina Azimi.
+## I'm Sina Azimi.
 
 Recently graduated Frontend Developer based in Germany, passionate about creating responsive and user-focused
 web applications. Skilled in React and modern UI tools, with a strong eye for usability and performance. I enjoy
